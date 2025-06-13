@@ -1,0 +1,25 @@
+.form-group{
+    margin: 10px;
+}
+.pagination{
+    float: right;
+}
+.add-material{
+    padding: 10px;
+    margin: 15px;
+    font-size: 30px;
+    color: green;
+}
+
+.submit-material{
+    margin-top: 30px;
+    font-size: 30px;
+    color: green;
+}
+
+.remove-material{
+    padding: 5px;
+    margin-top: 30px;
+    font-size: 22px;
+    color: red;
+}

@@ -1,0 +1,24 @@
+Material inward
+----------------
+
+material_qty (kg)
+dc_number
+dc_image
+received_date
+estimated_dispatch_date
+no_of_materials
+job_type
+coating_required
+inspection
+
+materila inward details
+------------------------
+
+material
+thickness
+
+
+
+
+planiing
+----------

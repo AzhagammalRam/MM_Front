@@ -1,0 +1,20 @@
+.form-group{
+    margin: 10px;
+}
+.pagination{
+    float: right;
+}
+.job-header{
+    text-align: center;
+}
+.job-lable{
+    color: #177577;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.job-value{
+    color: #159b9d;
+    padding: 10px;
+    font-size: 14px;
+}

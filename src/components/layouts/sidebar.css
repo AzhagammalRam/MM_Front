@@ -1,0 +1,12 @@
+.menu-link {
+    text-decoration: none;
+    color: gray; /* Default color */
+  }
+  
+  .menu-link.active {
+    color: white; /* Color for active link */
+    font-weight: bold;
+    background-color: blue;
+  }
+
+  

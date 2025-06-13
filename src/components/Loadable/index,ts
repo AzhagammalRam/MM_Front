@@ -1,0 +1,12 @@
+// import { Suspense, ComponentType } from 'react';
+
+// const Loadable = (Component: ComponentType) => (props: any) => {
+//   return (
+//     <Suspense fallback={<p>Loading....</p>}>
+//       <Component {...props} />
+//     </Suspense>
+//   );
+// };
+
+// export default Loadable;
+
